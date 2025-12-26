@@ -1,3 +1,4 @@
+# суммирует числа
 def summator(a, b):
     return a + b
 
